@@ -1,0 +1,6 @@
+[submodule "Digital-Kizuna-App"]
+	path = "Digital Kizuna App"
+	url = https://github.com/Yoinky3000/Digital-Kizuna-App.git
+[submodule "Digital-Kizuna-Server"]
+	path = "Digital Kizuna Server"
+	url = https://github.com/Yoinky3000/Digital-Kizuna-Server.git
