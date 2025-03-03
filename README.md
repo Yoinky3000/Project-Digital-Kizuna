@@ -22,6 +22,7 @@ This project is designed to allow user to import your own 3d model that you like
 This repository contains the following components:
 - **[Digital Kizuna App](https://github.com/Yoinky3000/Digital-Kizuna-App)**: The Unity client application.
 - **[Digital Kizuna Server](https://github.com/Yoinky3000/Digital-Kizuna-Server)**: The backend server that handles the interactions, profiles and settings.
+- **Unity Packages**: The Unity packages that used in this project.
 
 ## 📜 License
 
